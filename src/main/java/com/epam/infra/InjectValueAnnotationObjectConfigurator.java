@@ -1,6 +1,5 @@
 package com.epam.infra;
 
-import com.epam.producer.services.InjectValue;
 import lombok.SneakyThrows;
 
 import java.io.BufferedReader;
@@ -8,7 +7,6 @@ import java.io.File;
 import java.io.FileReader;
 import java.lang.reflect.Field;
 import java.net.URI;
-import java.net.URL;
 import java.util.Map;
 import java.util.stream.Collectors;
 

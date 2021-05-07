@@ -1,6 +1,7 @@
 package com.epam.producer.services;
 
 import com.epam.common.model.Quote;
+import com.epam.infra.InjectValue;
 import lombok.SneakyThrows;
 
 import java.io.File;

@@ -1,4 +1,4 @@
-package com.epam.producer.services;/**
+package com.epam.infra;/**
  * @author Evgeny Borisov
  */
 
